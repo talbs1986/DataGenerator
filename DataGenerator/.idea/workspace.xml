@@ -70,13 +70,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ObjectDataGeneratorTests.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ObjectDataGeneratorTests.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DataGeneratorTests/ObjectDataGeneratorTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="38" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.6738056">
+            <state line="50" column="38" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="73" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.84349257">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../DataGeneratorTests/src/main/java/DataGeneratorTests/BasicDataGeneratorTests.java" />
         <option value="$PROJECT_DIR$/../DataGeneratorTests/pom.xml" />
         <option value="$PROJECT_DIR$/DataGeneratorTests/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/sut/default.xml" />
@@ -134,6 +142,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Interfaces/BasicDataGeneratorInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/DataGenerator/BasicDataGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/DataGenerator/ExtendedDataGenerator.java" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -922,10 +931,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DataGeneratorTests/ObjectDataGeneratorTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="38" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.6738056">
+        <state line="50" column="38" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="73" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.84349257">
+          <folding />
         </state>
       </provider>
     </entry>

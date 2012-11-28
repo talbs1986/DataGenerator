@@ -1,0 +1,33 @@
+AUTHOR : Tal Ben Shabtay
+DATE : 28/11/2012
+
+
+--------------------------- DISCLAIMER ---------------------------
+
+this API is supports data generation in different levels .
+
+BASIC data generator its a bit extended Java.Lang.Random object ,
+ it generates primitive objects data and some special Strings
+
+EXTENDED data generator supports a more extended features of data
+ generation like email and phone numbers
+
+OBJECT data generator is a reflection based generator that will
+ fill an object based on Class object .
+
+
+-----------------------------------------------------------------
+
+WHATS NEXT ? v-0.2
+**OBJECT - DataGenerator
+support for containers
+
+
+Changelog : V-0.1
+**BASIC - DataGenerator :
+	- impel object and interface to support generation of primitive values
+**EXTENDED - DataGenerator :
+	- impel object and interface to support some extended features of data generation
+**OBJECT - DataGenerator :
+	- impel object and interface to support reflection of class and fill it with data
+	   currently support all primitives,String,Arrays,? Extends Object
